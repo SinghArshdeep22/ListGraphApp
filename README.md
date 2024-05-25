@@ -16,7 +16,9 @@ ListGraphApp is a Windows Forms application designed to demonstrate the implemen
 
 ## How to Clone the Repository
 To clone the repository to your local machine, execute the following commands in your terminal or command prompt:
+
 git clone https://github.com/Singh-Arshdeep-05/List-Graph.git
+
 cd List-Graph
 
 ## Usage
